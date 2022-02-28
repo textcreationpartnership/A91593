@@ -1,0 +1,290 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quære's, seasonable, to be humbly presented to King Charles, at Holmby, and others, for his Parliament at Westminster: vvith a few to be taken to heart, by the common people of England, communicated: / by Philanactodemus. Whereunto is added a prologue and an epilogue, for the better illustration of the thing to the different reader.</title>
+            <author>Philanactodemus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91593</idno>
+            <idno type="STC">Wing Q174</idno>
+            <idno type="STC">Thomason E384_4</idno>
+            <idno type="STC">ESTC R201442</idno>
+            <idno type="EEBO-CITATION">99861952</idno>
+            <idno type="PROQUEST">99861952</idno>
+            <idno type="VID">114098</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91593)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114098)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E384[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Quære's, seasonable, to be humbly presented to King Charles, at Holmby, and others, for his Parliament at Westminster: vvith a few to be taken to heart, by the common people of England, communicated: / by Philanactodemus. Whereunto is added a prologue and an epilogue, for the better illustration of the thing to the different reader.</title>
+                  <author>Philanactodemus.</author>
+               </titleStmt>
+               <extent>[4], 23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aprill: 15th. London".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114098:1" rendition="simple:additions"/>
+            <p>QUAERE'S, SEASONABLE, TO BE humbly preſented to King <hi>Charles,</hi> at Holmby, and others, for his Par<g ref="char:EOLhyphen"/>liament at Weſtminſter: VVith a few to be taken to heart, by the Com<g ref="char:EOLhyphen"/>mon people of England, communicated:</p>
+            <p>By PHILANACTODEMUS.</p>
+            <p>Whereunto is added a Prologue and an Epilogue, for the better Illuſtration of the thing to the different Reader.</p>
+            <p>
+               <add>Aprill: 15<hi rend="sup">th</hi>. London.</add> Printed in the Yeare 1647.</p>
+         </div>
+         <div type="prologue">
+            <pb facs="tcp:114098:2"/>
+            <pb facs="tcp:114098:2"/>
+            <head>The Prologue.</head>
+            <opener>
+               <salute>Malignant,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Know I ſhall be cenſured by thee, I would faine court thee into a true and good opinion of me, and it ſhall be in a Dramaticke way. I know thou loveſt Playes, as an old Proteſtant, yet it is a great wonder to mee, that Papiſts ſhould joyne with thee, as well as they did to fight for Proteſtant Religion, to go and ſee them in Lent, which is the principall time of their devotion. Then imagine thou ſeeſt act in theſe Quaeres, <hi>The Emperour, King of Spaine, French King, King of Denmarke, Bohemia, Holland<g ref="char:EOLhyphen"/>er, Rocheller, German Princes, Scots, Pope, Ieſuit, Bloody Iriſh, nay, the Divell himſelfe;</hi> and how to make this a Tragicomedy, will require a good Artiſt; ſure none, but Heaven, can doe it. I for<g ref="char:EOLhyphen"/>got to name thee amongſt the Speakers, but if thou doeſt not finde one, as like thy ſelfe as can be, in the heat of the Play, I am much miſtaken. There is one, I am ſure on't, that fought a great while for the liberty of the Subject in England,
+<pb facs="tcp:114098:3"/>
+and when he would not finde it heere, he went over into France for it: <hi>There, there are brave Parliaments, ten for one, at leaſt.</hi> After that hee hath quarrelled with his Affronter, and his Hoſt, and had halfe the time of experiment of them, as of this <hi>tedious Engliſh Parliament,</hi> hee will ſa<g ref="char:EOLhyphen"/>tisfie, and comfort himſelfe for all the loſſes, and dangers, he hath expoſed himſelf, and his friends to, heere. VVell Malignant, ſee the Play, and when thou haſt done, give me thy opinion of it.</p>
+         </div>
+      </front>
+      <body>
+         <div type="queries">
+            <pb n="1" facs="tcp:114098:3"/>
+            <head>Quaeres to be humbly preſented to his Ma<g ref="char:EOLhyphen"/>jeſties Remembrance, in the Conſiderati<g ref="char:EOLhyphen"/>on, and his Reſolution in the Anſwer.</head>
+            <p n="1">1. <seg rend="decorInit">W</seg>Hether the non proſecution of the Pala<g ref="char:EOLhyphen"/>tinate War, <hi>begun with ſo many Prote<g ref="char:EOLhyphen"/>ſtations by King</hi> James, that hee would never ſheath his ſword, till by Gods grace, it were recovered; and thereby divers German Proteſtants were en<g ref="char:EOLhyphen"/>gaged, was not a weakning to the cauſe there, <hi>and conſe<g ref="char:EOLhyphen"/>quently to your Majeſties diſhonour?</hi>
+            </p>
+            <p n="2">2. Whether the deſerting of that Warre, and contra<g ref="char:EOLhyphen"/>cting of great debts, and pawning of the Crowne Jewells, <hi>to the miſdirecting of a fleet to Cales, againſt the ad<g ref="char:EOLhyphen"/>vice of your then Parliament,</hi> were not a ſpoiling of your credit with the Hollander, <hi>and a blaſting the bud of your re<g ref="char:EOLhyphen"/>putation in War, with all Princes in Chriſtendome?</hi>
+            </p>
+            <p n="3">3. Whether the <hi>engaging the King of Denmarke againſt the Emperour, and then deſerting him, and your Brother Pa<g ref="char:EOLhyphen"/>latine, to make the French King your Enemy</hi> (as if the Em<g ref="char:EOLhyphen"/>perour and King of Spaine had not beene big enough) <hi>at the ſelfe ſame time when you would not be adviſed, nor agree with your Parliament, and to embroyle the Rochellers in a war againſt the French King,</hi> after you had lent your Ships to the beating of them, <hi>whereby the French were taught the bet<g ref="char:EOLhyphen"/>ter
+<pb n="2" facs="tcp:114098:4"/>
+uſe of Navigation,</hi> were not a ſhaking to the <hi>Baſis</hi> of the Proteſtant Religion, and the welfare of your Kingdomes, <hi>and the taking away all hopes of recovering any of your right in France?</hi>
+            </p>
+            <p n="4">4. Whether the not ayding of the Swede upon <hi>Oxe<g ref="char:EOLhyphen"/>ſterne</hi> his Embaſſy, were not the loſſe againe of the Pala<g ref="char:EOLhyphen"/>tinate, and a great party in Germany, to their very regrett at this Day?</p>
+            <p n="5">5. Whether the rayſing of <hi>ſhip money upon pretence of neceſſsitie, and ſetting out of fleetes to ſea to noe uſe,</hi> were not a great oppreſſion of your people, <hi>and another blaſting of your reputation in Warre with all Forraigne Princes?</hi>
+            </p>
+            <p n="6">6. Whether the ſending of the <hi>Earle of Arundell Em<g ref="char:EOLhyphen"/>baſſador into Germany, when at the Diet at Ratisbone he was to be a ſpectator of the King of Hungary being made King of the Romans, and the Duke of Bavaria inveſted in the Palati<g ref="char:EOLhyphen"/>nate, was not a confirmation of your Majeſties conſent to both, and no intention of reliefe to the Palſgrave?</hi>
+            </p>
+            <p n="7">7. What motives had your Majeſty to breede ſuch a jealouſie with your people (though it was not then known <hi>by the awe of your evill Councell over them a long time</hi>) as the ſending of ſeverall <hi>Agents to Rome,</hi> and receiving <hi>ſeverall Nuncios from thence,</hi> juſt at the time when you deceived your Subjects of their expectation, to fight abroad, for which to doe you honour and ſervice, <hi>they were contented with illegality,</hi> but you muſt needs turne your ſword into your owne bowels, <hi>As if the affronts, and diſgraces, you had made your ſelfe, not only with your enemies, but your friends, and kindred, muſt be revenged upon that flocke, you were or<g ref="char:EOLhyphen"/>dained to preſerve?</hi> Your Majeſty had the <hi>Goats,</hi> the <hi>Sheep</hi> by Gods bleſſing are ſafe, yet they deſire you to be their <hi>Shepheard</hi> if you pleaſe.</p>
+            <p n="8">
+               <pb n="3" facs="tcp:114098:4"/>8. Whether your Majeſties raiſing of Armes againſt the Kingdom of Scotland, when you engaged your whole Nobility, and much Gentry of England, in a deſigne of Warre, with an oath to fight for what your Majeſty was contented to pacifie upon the firſt Treaty, was either ho<g ref="char:EOLhyphen"/>nour or advantage to your Majeſty, or your Kingdome of England? Were not both Armies (though the Engliſh advance did impaire many an eſtate) ſuddenly disbanded? and your Majeſty no ſooner come to London, but preſent<g ref="char:EOLhyphen"/>ly a paper of the Treaty, <hi>found in a Noble mans cuſtody, muſt be burnt by the hand of the Hangman;</hi> and a new War muſt be proclaimed, and a new Generall nominated, almoſt a year before you were ready, though your Majeſty called a Parliament, contrary to your promiſe to your Lord Kee<g ref="char:EOLhyphen"/>per, for which you broke his heart, <hi>to advance the deſigne with a pretextuous letter, Au Roy:</hi> And the Parliament, though you would never have agreed with them before, would have aſſiſted in that blinded underſtanding, but that your <hi>Evill Councell</hi> would have all preſent money, and give no reaſon for it, and therefore did not your Majeſty diſ<g ref="char:EOLhyphen"/>ſolve that Parliament?</p>
+            <p n="9">9. Was it your neceſſity againſt the income of Scots, or your owne deſigne, to bring them in, for you may eaſily practiſe what you will (upon your Engliſh people) or the providence of Heaven, to unite us both, that your Majeſty called this Parliament; was not this Parliament begun in trouble, and combuſtion, <hi>when two Armies were ready to fight, and both invited to deſtroy this?</hi> Were not your Ma<g ref="char:EOLhyphen"/>jeſties evill Counſellors of greateſt eſteeme, accuſed by a juſt complaint, of which your Majeſties eares ſhould be moſt open, to your three Kingdomes? What charge, and what danger, to the Kingdomes, was the keeping of thoſe
+<pb n="4" facs="tcp:114098:5"/>
+Armies on foot? What delay of juſtice? When the Ar<g ref="char:EOLhyphen"/>mies we<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e disbanded, what haſte into Scotland? What at<g ref="char:EOLhyphen"/>tempts there? How your Majeſtie, and your people were there agreed, <hi>was beyond a then Engliſh Imagination,</hi> if wee had had that conſtancy, to what Principles, <hi>belong to us, more then them,</hi> your Majeſties <hi>Cavaliers had never given ſuch a common name to Engliſhmen,</hi> but wee had gon the way to deſire your Majeſtie, to know your freinds here, as they did in Scotland.</p>
+            <p n="10">10. Why your Majeſty ſhould aske us at your returne from thence, why wee were not a contented people, as they were, is beyond any reaſon you gave us then for it, and againſt it ſince, <hi>you convinced or paſſed moſt Delin<g ref="char:EOLhyphen"/>quents; you diſplaced divers men, that were commanded to doe their duty againſt the Earle of Strafford?</hi> you gave us a perpetuall Parliament, which an aſſuredneſſe of your good Acts, would have made ſhort, and buſineſſe eaſie, but ſuch a Laberinth have you brought it, and this Kingdome to, by your abſence from it, and refuſing to doe thoſe things, which muſt ſecure your Majeſtie, and the Members in it, that there muſt be a Counſell from Heaven, to which you muſt joyne in prayer, with your people, for the making of your ſelfe glorious, and them happie by it.</p>
+            <p n="11">11. Why your Majeſtie ſhould offer ſuch treaties, and ſtill provide for Armes, keepe your Agencies with ſo many ſeverall Princes, to bring ſtrangers upon your owne people (a principall judgement of God cited by the Pro<g ref="char:EOLhyphen"/>phet) why you ſhould declare againſt Papiſts, <hi>and receive them not only into favour, but into Major Generalls Com<g ref="char:EOLhyphen"/>mands, is againſt the ſence of any true Proteſtant?</hi> Why you ſhould engage, and ſpill ſo much blood (as if blood would require no vengeance, eſpecially when it is betweene Bro<g ref="char:EOLhyphen"/>ther
+<pb n="5" facs="tcp:114098:5"/>
+and Brother) for the denying your ſelfe, and diſabling ſo many of your Subjects of ſo many Paradices, as your Kingdomes afforded you, and them, deſerves repentance, and regret.</p>
+            <p n="12">12. Why after the Rebellion in Ireland, that War was ſo ſlackned, till your Majeſty deſired to goe your ſelfe, <hi>meerely to get a life guard of</hi> 2000. <hi>men heere firſt,</hi> which by the conſequent may very well be ſuppoſed, was intended againſt your Engliſh People; for if you attempted this war with a fourth part of the number, and was able with that volant party, to ſeaze upon ſo many Magazines, provided for the defences of ſeverall Counties, and offer at Hull it ſelfe, <hi>though you waſht the Lord Digbies intercepted Letter to the Queene, to adviſe you to retreat into a ſtrong place, with the vaine feares, and jealouſies of your Parliament,</hi> what could you have done with a greater force?</p>
+            <p n="13">13. Why your Majeſty pretended ſo much the proſe<g ref="char:EOLhyphen"/>cution of that war, and after tooke away the materialls be<g ref="char:EOLhyphen"/>longing to thoſe, that were ingaged in it, but <hi>to ſhew you deſired a ceſſation there, to make your war ſtronger with thoſe falſe men heere,</hi> though it was a ſtrange hazard of State, to leave that Kingdome ſo ſlenderly guarded, and that poore remainder of Proteſtants unmaſſacred, to the mercy of ſuch barbarous Rebels; who wee may juſtly conjecture, had they not had ſome further aſſurance from your Ma. of a ſettlement by Law, to the ruine of Proteſtants with them, would not have left unattempted the murder of the reſt, is againſt any underſtanding, but of deeper capacities?</p>
+            <p n="14">14. Why ſhould your Ma. ſend <hi>Glamorgan</hi> to make a peace with the Rebels, when you could not procure <hi>Ormo<g ref="char:cmbAbbrStroke">̄</g>d</hi> to do it, and then <hi>Digby</hi> to accuſe <hi>Glamorgan,</hi> for ſo doing, both whom have beene Agents for your Ma. there ſince, doth as much ſtumble us?</p>
+            <p n="15">
+               <pb n="6" facs="tcp:114098:6"/>15. Did your Majeſty ever read that any Engliſh Prince was ever fortunate, that was averſe to Parliaments, and have you read of Edward the firſt, that fought ſo long in defence of his Father, againſt Parliaments, loved Parlia<g ref="char:EOLhyphen"/>ments beſt afterwards, and prooved the moſt Victorious Prince of his time?</p>
+            <p n="16">16. Was not the ſending Prince <hi>Charles</hi> into <hi>France,</hi> a<g ref="char:EOLhyphen"/>gainſt the ſence of your Majeſty, after you had paſſed it your ſelfe? Was not the hazard of making you reſigne your Title to that Crowne, before you ſhould be releaſed (if taken) then inculcated to you? Was there any neceſſi<g ref="char:EOLhyphen"/>ty of ſo doing, after he had beene ſo kindly invited to the Parliament?</p>
+            <p n="17">17. Was your Majeſties requeſt to your Parliament for the ſending you ſo many Anticovenanting Prieſts either reaſonable or ſeaſonable, as if you had forgot what you had done with your Scots, or never conſidered what you did there, was agreeable with the moſt univerſall practice, of the Proteſtant Religion throughout Chriſtendome? <hi>Were not Francis the firſt, and Henry the fourth your Maje<g ref="char:EOLhyphen"/>ſties Father in Law</hi> (the moſt valiant and powerfull Prin<g ref="char:EOLhyphen"/>ces of their time) the greateſt favourers of Presbyteriall Government, though they could not eſtabliſh it by reaſon the Papacy was ſo inveterately ſetled, and their Reforma<g ref="char:EOLhyphen"/>tion ſo yong, as it wanted ſtrength.</p>
+            <p n="18">18 Whether their example is not a ſufficient prece<g ref="char:EOLhyphen"/>dent for your Actions, as well as <hi>your profeſsion of following your Father King Iames in his care of the Common-wealth?</hi> Which wee ſee evidenced otherwayes, for he renownced Epiſcopacy in Scotland, and probably would have done it heere, if he had beene ſo deſired by his Parliament, tooke the Covenant, <hi>and never denyed Iuſtice, againſt any favorite,
+<pb n="7" facs="tcp:114098:6"/>
+or Councellers whatſoever, whenſoever his Parliament askt it?</hi>
+            </p>
+            <p n="19">19. <hi>Was the obtruding of the Common-prayer, and booke of Cannons, agreeable with your Majeſties Oath, taken at your Coronation at Edenborough?</hi> If nor, how could that Oath be diſpenced withall, more <hi>then the Oath taken at the Coro<g ref="char:EOLhyphen"/>nation at Weſtminſter?</hi> Was that Oath at Weſtminſter take<g ref="char:cmbAbbrStroke">̄</g> according to the <hi>ſence of the giver, or the receiver?</hi> are either, or both Oaths, obligatory to maintaine <hi>old Lawes, and Ceremonies obnoxious to the neceſsity of the ſeaſon?</hi> If I? How came ſo much Reformation of Law, and Religion, by your Majeſties Predeceſſors, <hi>and in what ſtate of ſoules health,</hi> doe you conceive them that did ſo, to be?</p>
+            <p>May it pleaſe your Majeſtie:<lb/>
+VVE might enlarge and multiply Queres, but that we feare wee have tyred your Majeſty with theſe al<g ref="char:EOLhyphen"/>ready, but wee humbly deſire your Majeſty, to enquire in<g ref="char:EOLhyphen"/>to your memory whether ſuch things have not been coun<g ref="char:EOLhyphen"/>ſelled, and practiced, and adviſe with your judgement, and conſcience, whether ſuch things for the honour of your Majeſty, and the ſafety of your people were fit to be done; your Majeſty is the great Shepheard of three flocks. <hi>No good Shepheard will ſeperate his ſheepe, when he can keepe them together, nor lodge them in three folds, when one will ſerve:</hi> and when your Majeſtie by your owne experience hath cured one flocke, by a knowne Medicine, will you deny <hi>that approoved balſome</hi> to the other two? <hi>Vnity</hi> was the thing that <hi>Chriſt</hi> left us to practice upon earth, when he went up into Heaven, and there he exerciſes it himſelfe, for the three Perſons to our underſtanding, acted rather here beneath. God hath made your Majeſty our head to
+<pb n="8" facs="tcp:114098:7"/>
+be a Paterne to us of unity.</p>
+            <p>Nay, if wee ſtraggle, <hi>God</hi> hath given your <hi>Majeſty the rod, and the ſhepheards ſtaffe, to coerce us into the fold.</hi> We deſire then your <hi>Majeſty</hi> to bring us all into one practice of <hi>ſerving God, and obeying your Majeſty;</hi> that your Majeſty will encourage theſe our hopes by taking <hi>our Covenant,</hi> and take off the imputation which by the perſwaſion of thoſe <hi>falſe Prophets, and Mountebancks of State</hi> (that have this long time kept your M<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jeſty from your Parliament) <hi>you have taken upon your ſelfe, and lay it juſtly upon thoſe Locuſts and Caterpillers,</hi> that by the ſerene countenance of your <hi>Majeſty</hi> over your people, they may be deſtroyed from the face of the earth, that your Juſtice may ſhine like the Sun, and the ſame of your <hi>Majeſty</hi> ring through the world, to <hi>the terrour of your enemies, and the comfort of all your good people.</hi>
+            </p>
+            <div type="part">
+               <head>Quaeres to be humbly proponed to the Lords, and Commons aſſembled in Parliament at Weſtminſter.</head>
+               <p n="1">1. VVHether you can ſecure this Kingdome (as none other can or ought to doe it) without ſetling your owne houſes, in a certaine knowledge of your Mem<g ref="char:EOLhyphen"/>bers, to be true Members thereof?</p>
+               <p n="2">2. Whether the enquiry into that knowledge, will not be too tedious by having thoſe buſineſſes examined by a Committee at Weſtminſter?</p>
+               <p n="3">3. Whether the charge of that enquirie, being for the <hi>Publique good, is not fit to be borne by the Publique purſe?</hi>
+               </p>
+               <p n="4">4. Whether the charge of that enquiry will not be leſſe, by ſending a Commiſſion into the Countrey, by Lords and Commons, for the tryall of the truth, and the certain<g ref="char:EOLhyphen"/>ty
+<pb n="9" facs="tcp:114098:7"/>
+more then by having the Counties and Corporations attending at Weſtminſter?</p>
+               <p n="5">5. Whether ſuch a Commiſſion be not more agreeable to the practice of the Lawes, by Circuits, within this King<g ref="char:EOLhyphen"/>dome, then any other way, and whether not of equall eaſe to the people?</p>
+               <p n="6">6. Whether it is probable, that when the ſword, and the purſe, and all other <hi>coercive power hath been in the Soul<g ref="char:EOLhyphen"/>dier, Committee me<g ref="char:cmbAbbrStroke">̄</g>, &amp; their inferiour Officers hands, and ſtill remaineth ſo;</hi> That a Parliament Committee at Weſtmin<g ref="char:EOLhyphen"/>ſter ſhould have a true information of the affaires of the Countryes?</p>
+               <p n="7">7. Whether it will not be a great engaging of the Country peoples loves, to have their grievances viſited at their owne doores, to the ſtaggering of all ſorts of Malig<g ref="char:EOLhyphen"/>nant Parties, and confirming the people in a true ſence of the Parliaments intentions, in the Reformation of the Church and State?</p>
+               <p n="8">8. Whether ſuch a Commiſſion may not have a relati<g ref="char:EOLhyphen"/>on to the Sewres of the Kingdome, that becauſe the hor<g ref="char:EOLhyphen"/>ſes are waſted, and will be for many yeeres wanting, there may be carriage had by water, and that the Weares, and Mills belonging to Malignants, being taken away, in places proper, thoſe that belong to the well affected, be bought out with the Publique purſe, for making the Rivers of England navigable?</p>
+               <p n="9">9. Whether ſuch a Commiſſion may not extend to the relieving of the well affected, in the ſeverall Counties, a<g ref="char:EOLhyphen"/>gainſt the malice of the conſtantly Malignant, the moſt worldly, &amp; griping men, who by Suits in Law, Areſts, &amp;c. may ruine many a well affected man, that hath loſt and ſpent his eſtate in the Parliament ſervice? Is it not a ſtrange
+<pb n="10" facs="tcp:114098:8"/>
+Paradox of State, that a Cane ſhall ſecure a man more then a ſword? and a Committee of Complaints be erected to relieve Malignants, and none for thoſe that have fought for the Parliament? As if defending of Garriſons againſt the Command of King and Parliament ſeverally, were greater reaſon of protection, then the conſtant defending of the true Cauſe?</p>
+               <p n="10">10. Whether it is poſſible, that except money be brought downe to ſix <hi>per Cent.</hi> the particular debts of the King<g ref="char:EOLhyphen"/>dome can be payd, or Land yeeld that value, as to ſatisfie the Publique?</p>
+               <p>May it pleaſe your Lordſhips.<lb/>
+I Could multiply my requeſts in my Quaeres, but that I thinke there is worke enough offered at already; yet no more then is eaſily feaſible, with the ſeaſonablenes of the Spring, and the ready endevour of ſome good Pa<g ref="char:EOLhyphen"/>triots of this Kingdome; if your Lordſhips will ſpare ſome to be itinerant to that purpoſe, you may finde a juſter ac<g ref="char:EOLhyphen"/>compt of your owne ſtrength, under God, and his Maje<g ref="char:EOLhyphen"/>ſty, then can be otherwiſe brought you. I ſhall crave a pardon for my boldneſſe in adviſing, and pray a bleſſing in whatſoever you ſhall order, though it be for the correcting of me, for my ſawcineſſe, in medling with your affaires.</p>
+            </div>
+            <div type="part">
+               <head>Quaeres conſiderable by the Common people of Engl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd.</head>
+               <div type="section">
+                  <head>Firſt for the Soldiery.</head>
+                  <p n="1">1. VVHether the Law of Arm<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s bee agreeable with the Lawes of Chriſtiani<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y? I ſo, whether a ſol<g ref="char:EOLhyphen"/>dier employed in Armes, may preach in Church, or pri<g ref="char:EOLhyphen"/>vately, to the dividing of the frame of Eccleſiaſticall Law, in the government of the Church?</p>
+                  <p n="2">
+                     <pb n="11" facs="tcp:114098:8"/>2. Whether the Civill Magiſtrate may not puniſh ſuch a Soldier, that doth ſo offend?</p>
+                  <p n="3">3. Whether it can agree with the eſſence of a true Chri<g ref="char:EOLhyphen"/>ſtian, who ought to be Chriſts Souldier, as a Member of the Church Militant to converſe with, allow, or tollerate; nay rather is he not bound to fight againſt the Turke, Jew, Atheiſt, Pap<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſt, or any other falſe worſhipper, prophaner, or renter of the ſeamleſſe garment of Jeſus Chriſt, in the behalfe, and for the cauſe of Chriſt Jeſus?</p>
+               </div>
+               <div type="section">
+                  <head>For the City.</head>
+                  <p n="4">4. Whether the City of London is not bound as well in policy, as conſcience, to aſſiſt their Brethren of the Country, and they reciprocally them, in the joint maintai<g ref="char:EOLhyphen"/>ning of the liberty of the Subject, which hath been ſo glo<g ref="char:EOLhyphen"/>riouſly vindicated, by the conſtancy of the two Nations of England and Scotland, in their Parliaments? was not that alwayes the Phyſitian of the Law, whenſoever any ulcers broke out? and why ſhould it be declined, much leſſe re<g ref="char:EOLhyphen"/>viled?</p>
+                  <p n="5">5. Whether is not this City, and indeed all other, that have held for the Parliament, in much better condition, now &amp; at all times of this war, then thoſe where the Roy<g ref="char:EOLhyphen"/>all Q<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>rters were kept? could there any thing be expected but the plunder of the City of <hi>London,</hi> if entred by the rat<g ref="char:EOLhyphen"/>tleheaded party? was not ſo much publikely profeſſed by them? and yet will people wiſh for them againe?</p>
+               </div>
+               <div type="section">
+                  <head>For the Countrey.</head>
+                  <p>I<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> it poſſible to preſerve a new Acqueſt without charge, and hazard, <hi>viz.</hi> the juſt liberty of the Subject? and ſhall we then gsumble at the Parliaments ordering the Quarte<g ref="char:EOLhyphen"/>ring of a neceſſary Army, for the preſerving of our peace, eſpecially when it ſhall conſiſt of ſuch men, as ſhall give no ſcandall to Church or State, nor doe any thing then ſecure the Countrey?</p>
+                  <p>
+                     <pb n="12" facs="tcp:114098:9"/>My advice to all is, <hi>to be content with the government which God hath more expreſly favoured this Iſland withall, more then any other Nation, that is, of this Parliament, that as the King never dies in Law, ſo the priviledge of the Subject ſhould not neither: and this being ſo difficultly brought on, and miraculouſly kept, it is againſt the ſenſe of Earth, and</hi> I <hi>am confident againſt the will of Heaven, it ſhould be attempted to be diſſolved.</hi> We read the <hi>Patriarchs uſed</hi> to evidence their ſerving of God with <hi>ſacrifice,</hi> and though God did afterwards appoint his choſen people to ſerve him that way; yet to one <hi>of the beſt of his ſervants he ſayes, Obedi<g ref="char:EOLhyphen"/>ence is better:</hi> That <hi>Obedience</hi> which produces <hi>awe and u<g ref="char:EOLhyphen"/>nity, feare, love, and ſecurity.</hi> I deſire the people of Eng<g ref="char:EOLhyphen"/>land to joine in to the glory of <hi>God, the honour of the King, the priviledge of Parliaments,</hi> and the ſetling of a <hi>firm peace</hi> and <hi>true Religion,</hi> among all good Chriſtians.</p>
+               </div>
+            </div>
+         </div>
+         <div type="dramatic_epilogue">
+            <pb n="13" facs="tcp:114098:9"/>
+            <head>THE EPILOGUE, Diſcourſt by the Dramatiſt Semi Prelaticall Proteſtant, Papiſt, and Independent.</head>
+            <sp>
+               <speaker>Dramatiſt.</speaker>
+               <p>NOw Sir, what doe you thing of this inlightment? doe you Maſter Proteſtant know, what you have fought for all this while? were not you of the ſame opinion with me, at the inſtant of thoſe miſguidances demonſtrated now unto you? did you not obſerve the practice of the latter Prelates, to be quite contra<g ref="char:EOLhyphen"/>ry to what was uſed in Queene <hi>Elizabeth,</hi> and King <hi>Jame's</hi> times? could you beleeve <hi>the profeſſion of the Arch-biſhop of <hi>Canterbury</hi> at his death, before your owne eye ſight, in your own experience in his life time?</hi> Are you bound to let the worſhip, and glory of
+<pb n="14" facs="tcp:114098:10"/>
+God, to be diſhonoured by your ſuffering, when by your ſword you may preſerve it?<hi>Doth the Church Militant conſiſt meerly in ſuffering? is God called the Lord of Hoſts, becauſe his people muſt ſubmit rather then defend his true Religion?</hi> Js the <hi>Arbitration in Go<g ref="char:EOLhyphen"/>vernment of a Prince (though never ſo pious) more convincible to the reaſon of obeyers, then theſe lawes, made for the neceſſities, and requeſts of thoſe that are to be governed?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Semi-Prelat.</speaker>
+               <p>I muſt confeſſe, I was of your opinion, but I have been in a dreame a great while; I got by chance to <hi>Oxford,</hi> where I was ſo plyed with Colledge beere, and lewd Sack, and ſo followed by the Schollers, with drinke, and ſophiſtry, that I loſt all my former remembrance, till I came home, where when J had conſidered a little, and be<g ref="char:EOLhyphen"/>gan to waver in my opinion, <hi>my wife comes in, and poſts me back to <hi>Oxford,</hi> to bring home ſome ho<g ref="char:EOLhyphen"/>nour,</hi> and ſhe added further, that beſides the ſaving of my owne life and my eſtate, <hi>the King might beſtow ſuch a round-headed neighbours houſe and land</hi> upon me (for the King would ſurely hang all the Round-heads) upon this I returned, and raiſed what forces J could, but <hi>I</hi> did not find the King ſo bountifull as I expected, and the widdowes of ſome that had raiſed troopes, and ventred their lives, but dyed by ſickneſſe were as hardly uſed for the wardſhips of their Children. I cannot blame the King for this, in all, (though he be cloſe enough) but muſt lay it upon ſome Courtiers and ſome of the favorites of the two German Princes, who if we had the command of any Gar<g ref="char:EOLhyphen"/>riſons
+<pb n="15" facs="tcp:114098:10"/>
+                  <hi>and did not pay our conſtant contributions ex<g ref="char:EOLhyphen"/>traordinary to them we were ſuddenly diſplac'd and made Reformadoes,</hi> to prevent which we did plunder the Countrey ſufficiently, and yet did not thrive in our Armes, and if there were any boone to be gotten, ſome of the forenamed crept betweene us, and it. <hi>We are now undone, ſaving the grace of the Parliament, which is extraordinary to us; (we are ſure we ſhould not have uſed them ſo if we had had the better,)</hi> and you have ſo diſſolved our late taken up principles, that we muſt de<g ref="char:EOLhyphen"/>ſire, you to Petition the Parliament, <hi>that no more of us, may be ſuffered to goe over into <hi>France,</hi>
+                  </hi> for divers of us deſire to goe thither, upon great hopes the Queene will bring us back againe with a poulder. But a Gentleman whom J dare truſt, came from thence lately, who ſays we are infinitely ſlighted there, <hi>and the Prince himſelfe mean<g ref="char:EOLhyphen"/>ly Courted, and allowed his followers wretchedly.</hi> And for the <hi>Religion we profeſſed at <hi>Oxford,</hi> there is no toleration for it there,</hi> but in <hi>Henry Jermyns Chappell</hi> and that is <hi>ſo nigh the Queenes that it ſmels to much of Popery.</hi> If we ſhould <hi>goe to <hi>Charenton</hi> we muſt turne Presbyteriall,</hi> and then looſe that <hi>ſlight Ali<g ref="char:EOLhyphen"/>mony we have from the Queene,</hi> and all further <hi>hopes from the King.</hi> We humbly deſire you will intreat the Parliament that ſtaying here we <hi>may make uſe of a wood for the hearing of the Common Prayer, as the Independents exerciſed in their way;</hi> if not, and that you will force us to be Presbyterians, you will baniſh the Papiſts and Independents, and let us have but one ſet<g ref="char:EOLhyphen"/>led forme of Religion.</p>
+            </sp>
+            <sp>
+               <pb n="16" facs="tcp:114098:11"/>
+               <speaker>Papiſt.</speaker>
+               <p>Sir <hi>Dramatiſt,</hi> I pray forbeare to requeſt our baniſhment, as Maſter Proteſtant would have it; for either the <hi>French or Spaniſh or Italian Catholiques would make ſuch a prey of us as we had better pay all ſtatute payments in <hi>England</hi> then endure their lawes, or adventure at their charity; we had no A<g ref="char:EOLhyphen"/>gents</hi> at <hi>Rome</hi> before, but were luſtily maintained from hence, and <hi>yet great gratuities went to the Popes fa<g ref="char:EOLhyphen"/>vorites, for the allowing of us to venture our lives, and eſtates, againſt the lawes of our Country,</hi> and our Prieſts and Ieſuits made as ſtrong hazzard, by oath, and our purſes, as all. But Sir if an ingenuous confeſ<g ref="char:EOLhyphen"/>ſion will move with you I will make it. There be as many Sects of us, as of Jndependents; and if the Inquiſition had not beene ſet up to the awing of all, there would have been more. We Engliſh Catholiques had been rent in the latter end of Queene <hi>Elizabeths</hi> Reigne by our owne di<g ref="char:EOLhyphen"/>viſions; but when <hi>Bancroft</hi> came to be Arch-biſhop, we had opportunity to <hi>playſter up a rent in a Gunpowder treaſon.</hi> And when that could take no effect nor we doe any thing <hi>more during the life of Crooke-back <hi>Cicill,</hi> though the then <hi>Northampton</hi> was our friend,</hi> we ven<g ref="char:EOLhyphen"/>tred on King<hi>James</hi> his weakneſſe in his favourite, <hi>So<g ref="char:EOLhyphen"/>merſet</hi> and more in<hi>Buckingham;</hi> we had then one of our own Religion, that governed favourite and King, and we brought in a principall inſtrument of <hi>Spaine,</hi> Gunda<g ref="char:EOLhyphen"/>more, <hi>to take of the maine agent of the Engliſh de<g ref="char:EOLhyphen"/>ſignes againſt the Catholicke and Spaniſh advance and to our own ſhame, be it ſpoken, we got that Agents head to be ſtrucken off.</hi>How we purſued the
+<pb n="17" facs="tcp:114098:11"/>
+reſt of that deſigne, when we deſired one Queene <hi>Mary,</hi> and got another, though our deſigne went on more cleaver<g ref="char:EOLhyphen"/>ly, then it could have done by the firſt, is beyond my knowledge of the ſecrets of State; but you may reſemble it to this; the King held at once the <hi>Primate of<hi>Ireland, John</hi> of <hi>Yorke,</hi> Doctor <hi>Prideaux,</hi> and Doctor <hi>Holſ<g ref="char:EOLhyphen"/>worth</hi> in diſgrace,</hi> they were the great <hi>Puritants of the then times; The Spaniſh match was in the ſame rel<g ref="char:EOLhyphen"/>liſh with the people of <hi>England.</hi> The King when he was to engage his Proteſtant Subjects in a warre, and had baniſhed all Catholicks from his Court, onely with an explanation, that he expected their horſes, and Armes, to ſet Proteſtant Riders on, found that <hi>Canterbury</hi> or <hi>Wren</hi> or any other Arminian faction could not advance any Proteſtant conſiderable party towards him, makes uſe of the firſt univeſally, the other in <hi>Wales,</hi> third in <hi>Worſterſhire</hi> and <hi>Oxford</hi> the fourth in <hi>Cambridge</hi> and <hi>London</hi> to the following of their ſteps in the Kings affaires.</hi> 'Tis true we laught all this while at their <hi>indiſcretion, in promoting our deſignes;</hi> for we knew well <hi>our <hi>Generaliſſimo</hi> was com<g ref="char:EOLhyphen"/>ing</hi> that did as much for the time, as we could expect, but then they <hi>preached our projects, and gave an outſide to the Kings cauſe when we had caemented the Junto within:</hi> we have laboured other Nations to, but the inte<g ref="char:EOLhyphen"/>reſſe of <hi>France</hi>over <hi>Spaine was ſo great that rather then loſe their hold here, the French deferred us;</hi> the <hi>Hollander was jealous of the Engliſh match,</hi> the <hi>Dane embroyled by the Sweeds;</hi> the <hi>Loraynet had ſuch a long march by land, and diſtruſted by the way
+<pb n="18" facs="tcp:114098:12"/>
+he could not come at us;</hi> Only the Iriſh that be<g ref="char:EOLhyphen"/>gun our cauſe and would have continued it, but that they could not have our conditions <hi>by the diſſimula<g ref="char:EOLhyphen"/>tion of Ormond;</hi> They have offered to relieve us if wee may truſt them, <hi>though I as Engliſh Papiſt expect as little favour from them as from French, Italian or Spaniard, or rather murther for my Nations ſake;</hi> My requeſt is Sir, that you would prevaile with the Parliament, that wee may ſtay in England <hi>without a Prieſt,</hi> that our <hi>Children may be educated</hi> according to their direction, and if there be any <hi>Schooles fit for the Aged of us</hi> (wee have <hi>uſed to kneele to our Prieſt though much younger then our ſelves) or other degrees</hi> wee deſire wee may goe thither, and if any <hi>Treaſon a<g ref="char:EOLhyphen"/>gainſt God the King, or the Parliament be found,</hi> let us ſuffer according to that Law they have made, or ſhall make, for their owne ſecurity, and our diſſo<g ref="char:EOLhyphen"/>lution.</p>
+            </sp>
+            <sp>
+               <speaker>Independ.</speaker>
+               <p>I pay ſpare our baniſhment too, for if wee ſhould travile into Holland, our trayne would bee ſo numerous (ſo many of us having bin Militant) that wee ſhould breed a new jealouſy there, if into France, the Presbyterians would defie us, and the Papiſts, and all the Queenes party, when they are out of hope of having any more good by us, an wee ſtay not in England, to keepe a diviſion in the Par<g ref="char:EOLhyphen"/>liaments party, will hate us more, then ever they complied with us; If wee goe to New England, wee heare ſo much of their uniting, in the practice of Re<g ref="char:EOLhyphen"/>ligion,
+<pb n="19" facs="tcp:114098:12"/>
+and the Government of the Church, that wee feare, we ſhall be worſe put to it, there, then at home; Wee deſire therefore that Maſter <hi>Proteſtant</hi> would be <hi>ſatisfied with a wood,</hi> wee can ſpare him two, or three, and <hi>a River too,</hi> in hope that they may Bap<g ref="char:EOLhyphen"/>tize anew; for Maſter <hi>Proteſtant is very flexible in his Religion, ſaving that hee takes <hi>Edward</hi> the Sixts Tradition for as good, and obligatory as Scripture, and in that, and his willingneſſe to ſub<g ref="char:EOLhyphen"/>mit to abſolute Monarchy hee is onely poſitive;</hi> If wee ſhould be baniſhed, hee would long for Biſhops againe, though the laſt curteſie they did him, when they were in their power, was to chaſten him in all their Courts. You may ſee what ill humours <hi>the want of Diſcipline breeds to thoſe men that uſed to be whipt;</hi> if they delight in it, I pray let them have it, and let us alone, wee can be contented without ſeverall exerciſes <hi>in a Parlor or an upper Roome.</hi> Nay for the <hi>edifying, and making of Proſelytes, wee can finde vacant Churches enough.</hi> And for the further promulgation of our cauſe, wee dare ad<g ref="char:EOLhyphen"/>venture <hi>into a poſſeſſed Pulpit;</hi> onely the other day one of our<hi>Brethren was much forſaken of the Spirit, when hee queſtioned a Miniſter for ſpeak<g ref="char:EOLhyphen"/>ing againſt <hi>Bellarmine;</hi> for hee askt him whether hee could prove it by Scripture, that <hi>Bellarmine</hi> fayd ſo;</hi> and an other being <hi>expounding, and be<g ref="char:EOLhyphen"/>ing contraried by his Brethren,</hi> it was made ap<g ref="char:EOLhyphen"/>peare, that the pocket Bible he had, though it was of the Amſterdam ſize, yet it was of the Remiſh
+<pb n="20" facs="tcp:114098:13"/>
+tranſlation; Wee thought very well of that Brother, that he was ſanctified, and could not Sin, but cer<g ref="char:EOLhyphen"/>tainly he did fall in that exerciſe. Sir we requeſt all our errors may be attributed to the deſire of know<g ref="char:EOLhyphen"/>ledge in an exceſſive manner, (though ſome of us that are of the higher forme, thinke they have enough becauſe they have more then their Brethren) yet Sir, now I conſider <hi>that the exceſſive deſire of know<g ref="char:EOLhyphen"/>ledge was the occaſion of <hi>Adams</hi> fall, and the conſequent of more Ignorance, and all other evill and miſchiefe to his poſterity,</hi> J thinke it may be a good warning to us, to ſit content with the mercy of Heaven, in that Peace, and Vnity which it hath pleaſed God to provide for us. There wanteth no<g ref="char:EOLhyphen"/>thing but a handſome Authority, over us, to bring us into the univerſall fold, which I hope you will ſpeake to the Parliament for. Now I thinke of the Communion Chriſt left us, I thinke alſo of his practice, before, and at it, and after it, nay and after his Reſurrection, for what greater Communion, then among ſheepe yet the last command, hee gave his Apoſtles was, to feede his ſheepe, ſo that for my part<hi>I am convinc'd of my Separation, and I ſhall ſub<g ref="char:EOLhyphen"/>mit to what prudentiall government of the Church the power that it ſet over mee, ſhall provide for mee,</hi> and J <hi>ſhall be gladder, if it be that, which agrees with our other reformed Brethren abroad,</hi>and I ſhall labour to bring in as many ſtray ſheepe as I ſhall finde, in the Wilderneſſe, I will <hi>quit Par<g ref="char:EOLhyphen"/>lor, and upper Roome, for the ſerving of God in his
+<pb n="21" facs="tcp:114098:13"/>
+true congregation, ſo that I hope there will be no neede of my baniſhment.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Dramat.</speaker>
+               <p>Now I finde you all ſo plyable, J will tell you more of your happineſſe then ever you heard before. If you turne truly you ſhall <hi>be called Round-heads, a name as much above a Cavalier as Heaven is above Earth. This you may conſider by your owne knowledge in the Arts, that the Heaven is Round, in the whole, and in its ſingularities. The Sun conſtantly, the Moone that is the Mi<g ref="char:EOLhyphen"/>ſtreſſe of what man can doe (without Gods o<g ref="char:EOLhyphen"/>ther order) round in her perfection; they have both faces, probably heads.</hi> Why you ſhould make this a name of ſcorne, is againſt the ſence of Hea<g ref="char:EOLhyphen"/>ven. And if you contemplate below, and were as you offer a right Cavalier (the beſt name upon Earth) when you ſhall ſtudy and travaile the Earth, you ſhall finde that Earth round too, <hi>that Earth were you made off; and if you have a head made of Earth, certainly that muſt bee round:</hi>Being thus conſtituted from the nature of Heaven and Earth, J can tell you what a true ſence of your for<g ref="char:EOLhyphen"/>mer frantickneſſe will bring you too; and as every ſick man if hee bee ſtrong enough to endure Phy<g ref="char:EOLhyphen"/>ſicke, is to have his Malignant humours purged, ex<g ref="char:EOLhyphen"/>cept hee will venture a Feaver at his heart, at leaſt an Ague in his bones, you being already purged are now to receive a Cordiall againſt the venome that hath ſo long interlined your underſtanding,
+<pb n="22" facs="tcp:114098:14"/>
+and if you doe it willingly, <hi>the Phyſick will worke the better.</hi> I have knowne <hi>many a ſick Lady much comforted in her good opinion of her Doctor; what Medicine our great Phyſitian preſcribes (though it may deſtroy ſome, yet if it preſerve many) wee muſt not diſpute.</hi> You may eaſily ſee what cures the Parliament have done already. <hi>Lew<g ref="char:EOLhyphen"/>is <hi>the Eleventh when hee had corrupted <hi>Edward</hi> the Fourths Councellors of Warre, and patcht up his Peace with a Tribute of 50000 Crownes a Yeare to be payd in the Tower of London, when hee had foold</hi> Charles the hardy into a Warre a<g ref="char:EOLhyphen"/>gainſt the Swiſſes, <hi>(a People then more con<g ref="char:EOLhyphen"/>temptible then ever the Scots were eſteemed by the haughtineſſe of the Cavaliering party,) When hee had poſſeſſed himſelfe of the Duchy of Brit<g ref="char:EOLhyphen"/>taine, and made every old Payrage of France his owne, hee then diſſolved all Aſſemblies of State, which is juſt the ſame with Engliſh Par<g ref="char:EOLhyphen"/>liaments, and then bragged that hee had brought the Realme of France, <hi>hors du Paga,</hi> that is, <hi>out of Wardſhip.</hi>
+                     </hi> If now wicked Counſell hath adviſed His Majeſty, to practice upon His People, when Hee was ſecure to all the World, <hi>and upon the ex<g ref="char:EOLhyphen"/>ample of <hi>Lewis</hi> the Eleventh's proſperity a<g ref="char:EOLhyphen"/>gainſt Parliaments, to adventure at doing the like here, which was profeſſed by Proclamation Roy<g ref="char:EOLhyphen"/>all; and yet by the providence of Heaven one was brought on, and that one by the ſame pro<g ref="char:EOLhyphen"/>vidence, to doe ſuch Miracles, and contrary to
+<pb n="23" facs="tcp:114098:14"/>
+the Callers intention, to bring this Kingdome out of Wardſhip, I could adviſe ſuch evill Coun<g ref="char:EOLhyphen"/>cell, for their ſoules health <hi>hereafter,</hi> and pre<g ref="char:EOLhyphen"/>ſerving the Lawes better, here to offer them<g ref="char:EOLhyphen"/>ſelves up as Martyrs to the Juſtice of the King<g ref="char:EOLhyphen"/>dome</hi>ſo much abuſed by them, and that thoſe that are under the Parliaments obedience will thinke no adventure of their Lives and Fortunes too hard for the ſecuring of the Publike.</hi>
+               </p>
+            </sp>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
